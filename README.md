@@ -2,10 +2,11 @@
 ## About
 Pixie is an image(s) labeling/annotation application which allows the user to label his images using the follwings:
 - Bounding box
-- Polygon
+- Polygonexample
 - Free hand drawing
 - Semantic segmentation
 - Scene/Frame annotation
+- example
 
 Before using Pixie, we highly recomand to read the [user manual](https://github.com/buni-rock/Pixie/wiki/User-Manual). Alternatively the user manual can be found in Pixie's deliverables.
 
